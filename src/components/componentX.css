@@ -1,0 +1,13 @@
+.component-x {
+    border: 1px solid #ddd;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+  .component-image {
+    max-width: 300px;
+    height: 200px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
